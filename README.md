@@ -1,6 +1,6 @@
 # Thesis
 
-This repository contains all code needed for creating an image steganography database in the frequency domain, as part of a Bachelor Thesis called A Steganographic Database. Methods used are:\\
+This repository contains all code needed for creating an image steganography database in the frequency domain, as part of a Bachelor Thesis called A Steganographic Database. Methods used are:
 
 DCT1 from https://github.com/Kamyishka/literally-the-most-useless-project
 
