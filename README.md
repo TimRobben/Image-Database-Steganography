@@ -18,4 +18,4 @@ UERD: L. Guo, J. Ni, W. Su, C. Tang, and Y.Q. Shi. Using statistical image model
 
 PQ-UNIWARD: Butora, J., & Fridrich, J. (2021). Revisiting Perturbed Quantization. Proceedings of the 2021 ACM Workshop on Information Hiding and Multimedia Security. https://doi.org/10.1145/3437880.3460396
 
-The commands to run these methods on all images can be found in /commands.
+The commands to run these methods on all images can be found in Application & Preparation/commands.
