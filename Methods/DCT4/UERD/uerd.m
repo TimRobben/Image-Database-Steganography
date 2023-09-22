@@ -12,7 +12,7 @@ for brow_idx = 1:blk_row
         beg_row = (brow_idx - 1) * 8 + 1;
         end_row = brow_idx * 8;
         beg_col = (bcol_idx - 1) * 8 + 1;
-        end_col = bcol_idx * 8;
+        end_col = bcol_idx * 8; 
         blk_energy(brow_idx, bcol_idx) = ...
             sum(sum(dct_energy(beg_row:end_row, beg_col:end_col)));
     end
